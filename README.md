@@ -1,4 +1,4 @@
-# GESTION-CABINET-MEDICALE
+# Gestion-Cabinet-Medicale
 PROJET GESTION D’UN CABINET MÉDICALE
 L'objectif principal de ce projet est de fournir un outil efficace et convivial pour
 l'administrateur, permettant de gérer les rendez-vous des patients et les
